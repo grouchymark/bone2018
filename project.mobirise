@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BONE Color M",
-    "currentPage": "weather.html",
+    "currentPage": "markmadia.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8913,14 +8913,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customHTML": "<iframe src=\"https://www.powr.io/plugins/weather/view?unique_label=265c0f63_1457269043488&amp;external_type=iframe\" width=\"100%\" height=\"770\" frameborder=\"0\"></iframe>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2r"
+          "_anchor": "custom-html-2r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
