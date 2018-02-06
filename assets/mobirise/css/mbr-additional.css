@@ -9187,9 +9187,15 @@ body {
   color: #767676 !important;
 }
 .cid-qIKVKzSoOf {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 105px;
+  padding-bottom: 0px;
   background: linear-gradient(45deg, #073b4c, #72197f);
+}
+.cid-qIKVKzSoOf .main {
+  flex-direction: row-reverse;
+}
+.cid-qIKVKzSoOf .main .mbr-section-btn {
+  text-align: right;
 }
 .cid-qIKVKzSoOf .btn {
   margin: 0 0 .5rem 0;
@@ -9199,6 +9205,12 @@ body {
 }
 .cid-qIKVKzSoOf H2 {
   text-align: left;
+}
+#custom-html-3h {
+  /* Type valid CSS here */
+}
+#custom-html-3h .my-image {
+  width: 100%;
 }
 .cid-qIKVKDWGh0 {
   background: #ffffff;
